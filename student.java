@@ -15,7 +15,7 @@ System.out.println("enter the name");
     System.out.println("enter the marks of five subjects");
 
     for(int i=1;i<=5;i++){
-    System.out.print("enter the mark of "+i+"\tsubjectt\t");
+    System.out.print("enter the mark of "+i+"subject");
     marks[i]=onj.nextInt(); 
     }
     System.out.println(" the roll no is"+roll+"\n");
